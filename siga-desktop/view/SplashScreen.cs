@@ -21,7 +21,7 @@ namespace siga_desktop.view
 
         private void open(object obj)
         {
-            Application.Run(new view.aluno.Main());
+            Application.Run(new view.Login());
         }
 
         private void timer_Tick_1(object sender, EventArgs e)
